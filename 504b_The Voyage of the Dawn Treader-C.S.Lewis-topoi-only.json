@@ -1,0 +1,3305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33.80919,
+                    12.4349594
+                ]
+            },
+            "properties": {
+                "id": "Preamble - Eustace Clarence Scrubb",
+                "label": "Preamble - Eustace Clarence Scrubb",
+                "0": "metanarrative",
+                "1": "2514",
+                "size": 12.315681,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-338.0919",
+                "y": "124.349594"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.74176,
+                    6.0402153
+                ]
+            },
+            "properties": {
+                "id": "The Scrubb's - Lucy's Room",
+                "label": "The Scrubb's - Lucy's Room",
+                "0": "threshold",
+                "1": "6655",
+                "size": 16.57378,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-287.4176",
+                "y": "60.402153"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.762456,
+                    3.5548176
+                ]
+            },
+            "properties": {
+                "id": "The Children Fall into the Sea",
+                "label": "The Children Fall into the Sea",
+                "0": "wilderness",
+                "1": "1903",
+                "size": 11.687404,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-197.62456",
+                "y": "35.548176"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.064125,
+                    2.3441475
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Main Deck",
+                "label": "The Dawn Treader - Main Deck",
+                "0": "public square",
+                "1": "28843",
+                "size": 39.389206,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-110.64125",
+                "y": "23.441475"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2492779,
+                    -6.949638
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Stern Cabin",
+                "label": "The Dawn Treader - Stern Cabin",
+                "0": "parlour",
+                "1": "10826",
+                "size": 20.862724,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "22.492779",
+                "y": "-69.49638"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.853601,
+                    -7.765483999999999
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Lower Deck",
+                "label": "The Dawn Treader - Lower Deck",
+                "0": "public square",
+                "1": "1137",
+                "size": 10.899743,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-78.53601",
+                "y": "-77.65484"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.043933,
+                    -4.8617040000000005
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Lower Deck Cabin",
+                "label": "The Dawn Treader - Lower Deck Cabin",
+                "0": "parlour",
+                "1": "3654",
+                "size": 13.487918,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-40.43933",
+                "y": "-48.61704"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.84285,
+                    -9.046754
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Forecastle",
+                "label": "The Dawn Treader - Forecastle",
+                "0": "public square",
+                "1": "7290",
+                "size": 17.226734,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "98.4285",
+                "y": "-90.46754"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7138313000000001,
+                    0.2750169
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Fighting Top",
+                "label": "The Dawn Treader - Fighting Top",
+                "0": "castle",
+                "1": "2081",
+                "size": 11.870437,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "7.138313",
+                "y": "2.750169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.173464,
+                    -0.49062076
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Poop Deck",
+                "label": "The Dawn Treader - Poop Deck",
+                "0": "public square",
+                "1": "10399",
+                "size": 20.42365,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "61.73464",
+                "y": "-4.9062076"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8787048,
+                    -11.743837000000001
+                ]
+            },
+            "properties": {
+                "id": "Eustace's Diary",
+                "label": "Eustace's Diary",
+                "0": "metanarrative",
+                "1": "9179",
+                "size": 19.169151,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-28.787048",
+                "y": "-117.43837"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.555939000000002,
+                    -16.77517
+                ]
+            },
+            "properties": {
+                "id": "Felimath - Beach",
+                "label": "Felimath - Beach",
+                "0": "wilderness",
+                "1": "739",
+                "size": 10.490488,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "165.55939",
+                "y": "-167.7517"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.511116,
+                    -19.8082
+                ]
+            },
+            "properties": {
+                "id": "Felimath - Valley",
+                "label": "Felimath - Valley",
+                "0": "encounter",
+                "1": "4089",
+                "size": 13.935219,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "195.11116",
+                "y": "-198.082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.62289,
+                    -22.30781
+                ]
+            },
+            "properties": {
+                "id": "Felimath - Village",
+                "label": "Felimath - Village",
+                "0": "provincial town",
+                "1": "2267",
+                "size": 12.061697,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "226.2289",
+                "y": "-223.0781"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.854797,
+                    -23.549529999999997
+                ]
+            },
+            "properties": {
+                "id": "Slave Ship",
+                "label": "Slave Ship",
+                "0": "castle",
+                "1": "527",
+                "size": 10.272493,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "258.54797",
+                "y": "-235.4953"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.111953999999997,
+                    -22.644508
+                ]
+            },
+            "properties": {
+                "id": "Felimath - Behind the Village",
+                "label": "Felimath - Behind the Village",
+                "0": "provincial town",
+                "1": "3038",
+                "size": 12.854499,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "291.11954",
+                "y": "-226.44508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.631793,
+                    -19.494366
+                ]
+            },
+            "properties": {
+                "id": "Felimath - West of the Village",
+                "label": "Felimath - West of the Village",
+                "0": "provincial town",
+                "1": "1463",
+                "size": 11.2349615,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "306.31793",
+                "y": "-194.94366"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.86499,
+                    -15.699687
+                ]
+            },
+            "properties": {
+                "id": "Avra - Bern's Estates",
+                "label": "Avra - Bern's Estates",
+                "0": "idyll",
+                "1": "2233",
+                "size": 12.026735,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "308.6499",
+                "y": "-156.99687"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.760193,
+                    -16.459348
+                ]
+            },
+            "properties": {
+                "id": "Doorn - Narrowhaven",
+                "label": "Doorn - Narrowhaven",
+                "0": "provincial town",
+                "1": "3592",
+                "size": 13.424165,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "367.60193",
+                "y": "-164.59348"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.241132,
+                    -19.555215
+                ]
+            },
+            "properties": {
+                "id": "Doorn - Narrowhaven Castle Gate",
+                "label": "Doorn - Narrowhaven Castle Gate",
+                "0": "threshold",
+                "1": "1049",
+                "size": 10.809255,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "412.41132",
+                "y": "-195.55215"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.5146,
+                    -19.608276
+                ]
+            },
+            "properties": {
+                "id": "Doorn - Narrowhaven Castle Courtyard",
+                "label": "Doorn - Narrowhaven Castle Courtyard",
+                "0": "castle",
+                "1": "1447",
+                "size": 11.218509,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "445.146",
+                "y": "-196.08276"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.816683999999995,
+                    -16.095814999999998
+                ]
+            },
+            "properties": {
+                "id": "Doorn - Narrowhaven Castle Hall",
+                "label": "Doorn - Narrowhaven Castle Hall",
+                "0": "public square",
+                "1": "5464",
+                "size": 15.3491,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "448.16684",
+                "y": "-160.95815"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.938718,
+                    -15.307486
+                ]
+            },
+            "properties": {
+                "id": "Doorn - Narrowhaven Slave Market",
+                "label": "Doorn - Narrowhaven Slave Market",
+                "0": "public square",
+                "1": "3821",
+                "size": 13.65964,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "409.38718",
+                "y": "-153.07486"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.390813,
+                    -11.450068
+                ]
+            },
+            "properties": {
+                "id": "Doorn - Narrowhaven Harbour",
+                "label": "Doorn - Narrowhaven Harbour",
+                "0": "threshold",
+                "1": "828",
+                "size": 10.5820055,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "183.90813",
+                "y": "-114.50068"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.60433226,
+                    13.676738
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader",
+                "label": "The Dawn Treader",
+                "0": "castle",
+                "1": "5899",
+                "size": 15.796401,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-6.0433226",
+                "y": "136.76738"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.1612972,
+                    -24.34702
+                ]
+            },
+            "properties": {
+                "id": "Dragon Island - Bay",
+                "label": "Dragon Island - Bay",
+                "0": "wilderness",
+                "1": "21563",
+                "size": 31.903343,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-51.612972",
+                "y": "-243.4702"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.302029,
+                    -35.331976
+                ]
+            },
+            "properties": {
+                "id": "Dragon Island - Woods",
+                "label": "Dragon Island - Woods",
+                "0": "wilderness",
+                "1": "440",
+                "size": 10.183033,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-53.02029",
+                "y": "-353.31976"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.301466000000001,
+                    -36.455536
+                ]
+            },
+            "properties": {
+                "id": "Dragon Island - Ridge",
+                "label": "Dragon Island - Ridge",
+                "0": "wilderness",
+                "1": "2762",
+                "size": 12.570694,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-83.01466",
+                "y": "-364.55536"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.829255,
+                    -32.058887
+                ]
+            },
+            "properties": {
+                "id": "Dragon Island - Valley",
+                "label": "Dragon Island - Valley",
+                "0": "castle",
+                "1": "9263",
+                "size": 19.255527,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-88.29255",
+                "y": "-320.58887"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4457844,
+                    -30.839468
+                ]
+            },
+            "properties": {
+                "id": "Dragon Island - Cave",
+                "label": "Dragon Island - Cave",
+                "0": "castle",
+                "1": "4041",
+                "size": 13.88586,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-44.457844",
+                "y": "-308.39468"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.94068,
+                    -25.512909999999998
+                ]
+            },
+            "properties": {
+                "id": "Dragon Island - The Garden of Eustace's Transformation",
+                "label": "Dragon Island - The Garden of Eustace's Transformation",
+                "0": "encounter",
+                "1": "4284",
+                "size": 14.135733,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-109.4068",
+                "y": "-255.1291"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5513286000000002,
+                    -13.446133
+                ]
+            },
+            "properties": {
+                "id": "Burnt Island",
+                "label": "Burnt Island",
+                "0": "anti-idyll",
+                "1": "1112",
+                "size": 10.874036,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "15.513286",
+                "y": "-134.46133"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.104272,
+                    5.304035
+                ]
+            },
+            "properties": {
+                "id": "Deathwater Island - Bay",
+                "label": "Deathwater Island - Bay",
+                "0": "wilderness",
+                "1": "1991",
+                "size": 11.777892,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "81.04272",
+                "y": "53.04035"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.431408,
+                    8.872558
+                ]
+            },
+            "properties": {
+                "id": "Deathwater Island - Hill",
+                "label": "Deathwater Island - Hill",
+                "0": "wilderness",
+                "1": "1010",
+                "size": 10.769152,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "74.31408",
+                "y": "88.72558"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.525139,
+                    11.8342606
+                ]
+            },
+            "properties": {
+                "id": "Deathwater Island - Lake",
+                "label": "Deathwater Island - Lake",
+                "0": "anti-idyll",
+                "1": "8174",
+                "size": 18.135733,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "45.25139",
+                "y": "118.342606"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.16327928,
+                    32.048404
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Gardens",
+                "label": "Coriakin's Island - Gardens",
+                "0": "provincial town",
+                "1": "3506",
+                "size": 13.335732,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "1.6327928",
+                "y": "320.48404"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3043799999999997,
+                    35.481042
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Path",
+                "label": "Coriakin's Island - Path",
+                "0": "encounter",
+                "1": "3139",
+                "size": 12.958355,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-33.0438",
+                "y": "354.81042"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.606495,
+                    38.920553999999996
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Outside the House",
+                "label": "Coriakin's Island - Outside the House",
+                "0": "threshold",
+                "1": "3087",
+                "size": 12.904884,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-26.06495",
+                "y": "389.20554"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4754918,
+                    37.970166
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Beach",
+                "label": "Coriakin's Island - Beach",
+                "0": "encounter",
+                "1": "9436",
+                "size": 19.433418,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "14.754918",
+                "y": "379.70166"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.108889,
+                    34.675958
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Hall",
+                "label": "Coriakin's Island - Hall",
+                "0": "parlour",
+                "1": "4062",
+                "size": 13.907455,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "51.08889",
+                "y": "346.75958"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4843765,
+                    35.829324
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Lucy's Bedroom",
+                "label": "Coriakin's Island - Lucy's Bedroom",
+                "0": "parlour",
+                "1": "262",
+                "size": 10.0,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "84.843765",
+                "y": "358.29324"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5355267,
+                    42.145154000000005
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Stairs",
+                "label": "Coriakin's Island - Stairs",
+                "0": "castle",
+                "1": "1026",
+                "size": 10.7856045,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "45.355267",
+                "y": "421.45154"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395279,
+                    49.967667
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Passageway",
+                "label": "Coriakin's Island - Passageway",
+                "0": "castle",
+                "1": "4801",
+                "size": 14.667353,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "43.95279",
+                "y": "499.67667"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.919018,
+                    54.629944
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Room of the Book",
+                "label": "Coriakin's Island - Room of the Book",
+                "0": "parlour",
+                "1": "12865",
+                "size": 22.959383,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "39.19018",
+                "y": "546.29944"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.384802,
+                    48.712305
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Parlour",
+                "label": "Coriakin's Island - Parlour",
+                "0": "parlour",
+                "1": "3188",
+                "size": 13.00874,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "83.84802",
+                "y": "487.12305"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.095929,
+                    45.243216000000004
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Room of Instruments",
+                "label": "Coriakin's Island - Room of Instruments",
+                "0": "parlour",
+                "1": "4277",
+                "size": 14.128534,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "70.95929",
+                "y": "452.43216"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7504394999999997,
+                    27.898336999999998
+                ]
+            },
+            "properties": {
+                "id": "Coriakin's Island - Bay",
+                "label": "Coriakin's Island - Bay",
+                "0": "idyll",
+                "1": "1939",
+                "size": 11.7244215,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "27.504395",
+                "y": "278.98337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.374861,
+                    0.39243753
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - The Bows",
+                "label": "The Dawn Treader - The Bows",
+                "0": "castle",
+                "1": "486",
+                "size": 10.230334,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-43.74861",
+                "y": "3.9243753"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8708984,
+                    3.9937393
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Near the Dark Island",
+                "label": "The Dawn Treader - Near the Dark Island",
+                "0": "anti-idyll",
+                "1": "3789",
+                "size": 13.626736,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-38.708984",
+                "y": "39.937393"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1639662,
+                    19.31198
+                ]
+            },
+            "properties": {
+                "id": "Ramandu's Island - Bay",
+                "label": "Ramandu's Island - Bay",
+                "0": "wilderness",
+                "1": "1528",
+                "size": 11.3018,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "11.639662",
+                "y": "193.1198"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7590755,
+                    19.527393
+                ]
+            },
+            "properties": {
+                "id": "Ramandu's Island - Aslan's Table",
+                "label": "Ramandu's Island - Aslan's Table",
+                "0": "castle",
+                "1": "29437",
+                "size": 40.0,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-47.590755",
+                "y": "195.27393"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.269176999999999,
+                    -2.807555
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Above the Sea People",
+                "label": "The Dawn Treader - Above the Sea People",
+                "0": "encounter",
+                "1": "4673",
+                "size": 14.535732,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-152.69177",
+                "y": "-28.07555"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.36037,
+                    10.361664000000001
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Eastern Sea",
+                "label": "The Dawn Treader - Eastern Sea",
+                "0": "idyll",
+                "1": "2788",
+                "size": 12.597429,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-183.6037",
+                "y": "103.61664"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.099942,
+                    7.9838260000000005
+                ]
+            },
+            "properties": {
+                "id": "The Dawn Treader - Silver Sea",
+                "label": "The Dawn Treader - Silver Sea",
+                "0": "idyll",
+                "1": "4019",
+                "size": 13.863239,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-160.99942",
+                "y": "79.83826"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.142008999999998,
+                    -5.5862
+                ]
+            },
+            "properties": {
+                "id": "Boat - Towards the Edge of the World",
+                "label": "Boat - Towards the Edge of the World",
+                "0": "road",
+                "1": "2171",
+                "size": 11.962982,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-241.42009",
+                "y": "-55.862"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -30.667532,
+                    -2.2615257
+                ]
+            },
+            "properties": {
+                "id": "The Edge of the World",
+                "label": "The Edge of the World",
+                "0": "idyll",
+                "1": "1956",
+                "size": 11.741902,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-306.67532",
+                "y": "-22.615257"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31.65171,
+                    1.5308538
+                ]
+            },
+            "properties": {
+                "id": "The Lion and the Lamb",
+                "label": "The Lion and the Lamb",
+                "0": "idyll",
+                "1": "2960",
+                "size": 12.774293,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-316.5171",
+                "y": "15.308538"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39.39139,
+                    7.657349999999999
+                ]
+            },
+            "properties": {
+                "id": "Postscript",
+                "label": "Postscript",
+                "0": "metanarrative",
+                "1": "596",
+                "size": 10.343445,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-393.9139",
+                "y": "76.5735"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -33.80919,
+                        12.4349594
+                    ],
+                    [
+                        -28.74176,
+                        6.0402153
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Preamble - Eustace Clarence Scrubb",
+                "target": "The Scrubb's - Lucy's Room",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -28.74176,
+                        6.0402153
+                    ],
+                    [
+                        -19.762456,
+                        3.5548176
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Scrubb's - Lucy's Room",
+                "target": "The Children Fall into the Sea",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -28.74176,
+                        6.0402153
+                    ],
+                    [
+                        -39.39139,
+                        7.657349999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Scrubb's - Lucy's Room",
+                "target": "Postscript",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -19.762456,
+                        3.5548176
+                    ],
+                    [
+                        -11.064125,
+                        2.3441475
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Children Fall into the Sea",
+                "target": "The Dawn Treader - Main Deck",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -11.064125,
+                        2.3441475
+                    ],
+                    [
+                        2.2492779,
+                        -6.949638
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Main Deck",
+                "target": "The Dawn Treader - Stern Cabin",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -11.064125,
+                        2.3441475
+                    ],
+                    [
+                        -7.853601,
+                        -7.765483999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Main Deck",
+                "target": "The Dawn Treader - Lower Deck",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -11.064125,
+                        2.3441475
+                    ],
+                    [
+                        0.7138313000000001,
+                        0.2750169
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Main Deck",
+                "target": "The Dawn Treader - Fighting Top",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -11.064125,
+                        2.3441475
+                    ],
+                    [
+                        -0.60433226,
+                        13.676738
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Main Deck",
+                "target": "The Dawn Treader",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -11.064125,
+                        2.3441475
+                    ],
+                    [
+                        -15.269176999999999,
+                        -2.807555
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Main Deck",
+                "target": "The Dawn Treader - Above the Sea People",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -11.064125,
+                        2.3441475
+                    ],
+                    [
+                        -4.043933,
+                        -4.8617040000000005
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Main Deck",
+                "target": "The Dawn Treader - Lower Deck Cabin",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -11.064125,
+                        2.3441475
+                    ],
+                    [
+                        -24.142008999999998,
+                        -5.5862
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Main Deck",
+                "target": "Boat - Towards the Edge of the World",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2492779,
+                        -6.949638
+                    ],
+                    [
+                        -11.064125,
+                        2.3441475
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Stern Cabin",
+                "target": "The Dawn Treader - Main Deck",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2492779,
+                        -6.949638
+                    ],
+                    [
+                        -2.8787048,
+                        -11.743837000000001
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Stern Cabin",
+                "target": "Eustace's Diary",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2492779,
+                        -6.949638
+                    ],
+                    [
+                        9.84285,
+                        -9.046754
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Stern Cabin",
+                "target": "The Dawn Treader - Forecastle",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2492779,
+                        -6.949638
+                    ],
+                    [
+                        -4.043933,
+                        -4.8617040000000005
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Stern Cabin",
+                "target": "The Dawn Treader - Lower Deck Cabin",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2492779,
+                        -6.949638
+                    ],
+                    [
+                        6.173464,
+                        -0.49062076
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Stern Cabin",
+                "target": "The Dawn Treader - Poop Deck",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2492779,
+                        -6.949638
+                    ],
+                    [
+                        -0.60433226,
+                        13.676738
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Stern Cabin",
+                "target": "The Dawn Treader",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.853601,
+                        -7.765483999999999
+                    ],
+                    [
+                        -4.043933,
+                        -4.8617040000000005
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Lower Deck",
+                "target": "The Dawn Treader - Lower Deck Cabin",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.043933,
+                        -4.8617040000000005
+                    ],
+                    [
+                        9.84285,
+                        -9.046754
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Lower Deck Cabin",
+                "target": "The Dawn Treader - Forecastle",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.043933,
+                        -4.8617040000000005
+                    ],
+                    [
+                        -11.064125,
+                        2.3441475
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Lower Deck Cabin",
+                "target": "The Dawn Treader - Main Deck",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.84285,
+                        -9.046754
+                    ],
+                    [
+                        0.7138313000000001,
+                        0.2750169
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Forecastle",
+                "target": "The Dawn Treader - Fighting Top",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.84285,
+                        -9.046754
+                    ],
+                    [
+                        2.2492779,
+                        -6.949638
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Forecastle",
+                "target": "The Dawn Treader - Stern Cabin",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.84285,
+                        -9.046754
+                    ],
+                    [
+                        16.555939000000002,
+                        -16.77517
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Forecastle",
+                "target": "Felimath - Beach",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7138313000000001,
+                        0.2750169
+                    ],
+                    [
+                        6.173464,
+                        -0.49062076
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Fighting Top",
+                "target": "The Dawn Treader - Poop Deck",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7138313000000001,
+                        0.2750169
+                    ],
+                    [
+                        -4.374861,
+                        0.39243753
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Fighting Top",
+                "target": "The Dawn Treader - The Bows",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.7138313000000001,
+                        0.2750169
+                    ],
+                    [
+                        -3.8708984,
+                        3.9937393
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Fighting Top",
+                "target": "The Dawn Treader - Near the Dark Island",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.173464,
+                        -0.49062076
+                    ],
+                    [
+                        2.2492779,
+                        -6.949638
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Poop Deck",
+                "target": "The Dawn Treader - Stern Cabin",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.173464,
+                        -0.49062076
+                    ],
+                    [
+                        8.104272,
+                        5.304035
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Poop Deck",
+                "target": "Deathwater Island - Bay",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.8787048,
+                        -11.743837000000001
+                    ],
+                    [
+                        2.2492779,
+                        -6.949638
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Eustace's Diary",
+                "target": "The Dawn Treader - Stern Cabin",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.8787048,
+                        -11.743837000000001
+                    ],
+                    [
+                        -5.1612972,
+                        -24.34702
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Eustace's Diary",
+                "target": "Dragon Island - Bay",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        16.555939000000002,
+                        -16.77517
+                    ],
+                    [
+                        19.511116,
+                        -19.8082
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Felimath - Beach",
+                "target": "Felimath - Valley",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        19.511116,
+                        -19.8082
+                    ],
+                    [
+                        22.62289,
+                        -22.30781
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Felimath - Valley",
+                "target": "Felimath - Village",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        22.62289,
+                        -22.30781
+                    ],
+                    [
+                        25.854797,
+                        -23.549529999999997
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Felimath - Village",
+                "target": "Slave Ship",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        25.854797,
+                        -23.549529999999997
+                    ],
+                    [
+                        29.111953999999997,
+                        -22.644508
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Slave Ship",
+                "target": "Felimath - Behind the Village",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.111953999999997,
+                        -22.644508
+                    ],
+                    [
+                        30.631793,
+                        -19.494366
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Felimath - Behind the Village",
+                "target": "Felimath - West of the Village",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.631793,
+                        -19.494366
+                    ],
+                    [
+                        30.86499,
+                        -15.699687
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Felimath - West of the Village",
+                "target": "Avra - Bern's Estates",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.86499,
+                        -15.699687
+                    ],
+                    [
+                        36.760193,
+                        -16.459348
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Avra - Bern's Estates",
+                "target": "Doorn - Narrowhaven",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.86499,
+                        -15.699687
+                    ],
+                    [
+                        18.390813,
+                        -11.450068
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Avra - Bern's Estates",
+                "target": "Doorn - Narrowhaven Harbour",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.760193,
+                        -16.459348
+                    ],
+                    [
+                        41.241132,
+                        -19.555215
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Doorn - Narrowhaven",
+                "target": "Doorn - Narrowhaven Castle Gate",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.760193,
+                        -16.459348
+                    ],
+                    [
+                        30.86499,
+                        -15.699687
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Doorn - Narrowhaven",
+                "target": "Avra - Bern's Estates",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        41.241132,
+                        -19.555215
+                    ],
+                    [
+                        44.5146,
+                        -19.608276
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Doorn - Narrowhaven Castle Gate",
+                "target": "Doorn - Narrowhaven Castle Courtyard",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        44.5146,
+                        -19.608276
+                    ],
+                    [
+                        44.816683999999995,
+                        -16.095814999999998
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Doorn - Narrowhaven Castle Courtyard",
+                "target": "Doorn - Narrowhaven Castle Hall",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        44.816683999999995,
+                        -16.095814999999998
+                    ],
+                    [
+                        40.938718,
+                        -15.307486
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Doorn - Narrowhaven Castle Hall",
+                "target": "Doorn - Narrowhaven Slave Market",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        40.938718,
+                        -15.307486
+                    ],
+                    [
+                        36.760193,
+                        -16.459348
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Doorn - Narrowhaven Slave Market",
+                "target": "Doorn - Narrowhaven",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        18.390813,
+                        -11.450068
+                    ],
+                    [
+                        9.84285,
+                        -9.046754
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Doorn - Narrowhaven Harbour",
+                "target": "The Dawn Treader - Forecastle",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.60433226,
+                        13.676738
+                    ],
+                    [
+                        -2.8787048,
+                        -11.743837000000001
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader",
+                "target": "Eustace's Diary",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.60433226,
+                        13.676738
+                    ],
+                    [
+                        0.16327928,
+                        32.048404
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader",
+                "target": "Coriakin's Island - Gardens",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.60433226,
+                        13.676738
+                    ],
+                    [
+                        -11.064125,
+                        2.3441475
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader",
+                "target": "The Dawn Treader - Main Deck",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.60433226,
+                        13.676738
+                    ],
+                    [
+                        1.1639662,
+                        19.31198
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader",
+                "target": "Ramandu's Island - Bay",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.1612972,
+                        -24.34702
+                    ],
+                    [
+                        -5.302029,
+                        -35.331976
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Bay",
+                "target": "Dragon Island - Woods",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.1612972,
+                        -24.34702
+                    ],
+                    [
+                        -4.4457844,
+                        -30.839468
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Bay",
+                "target": "Dragon Island - Cave",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.1612972,
+                        -24.34702
+                    ],
+                    [
+                        -10.94068,
+                        -25.512909999999998
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Bay",
+                "target": "Dragon Island - The Garden of Eustace's Transformation",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.1612972,
+                        -24.34702
+                    ],
+                    [
+                        1.5513286000000002,
+                        -13.446133
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Bay",
+                "target": "Burnt Island",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.302029,
+                        -35.331976
+                    ],
+                    [
+                        -8.301466000000001,
+                        -36.455536
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Woods",
+                "target": "Dragon Island - Ridge",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.301466000000001,
+                        -36.455536
+                    ],
+                    [
+                        -8.829255,
+                        -32.058887
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Ridge",
+                "target": "Dragon Island - Valley",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.829255,
+                        -32.058887
+                    ],
+                    [
+                        -4.4457844,
+                        -30.839468
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Valley",
+                "target": "Dragon Island - Cave",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.829255,
+                        -32.058887
+                    ],
+                    [
+                        -5.1612972,
+                        -24.34702
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Valley",
+                "target": "Dragon Island - Bay",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4457844,
+                        -30.839468
+                    ],
+                    [
+                        -5.1612972,
+                        -24.34702
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Cave",
+                "target": "Dragon Island - Bay",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.4457844,
+                        -30.839468
+                    ],
+                    [
+                        -8.829255,
+                        -32.058887
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - Cave",
+                "target": "Dragon Island - Valley",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -10.94068,
+                        -25.512909999999998
+                    ],
+                    [
+                        -5.1612972,
+                        -24.34702
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Dragon Island - The Garden of Eustace's Transformation",
+                "target": "Dragon Island - Bay",
+                "weight": "1.0",
+                "2": "projection"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.5513286000000002,
+                        -13.446133
+                    ],
+                    [
+                        2.2492779,
+                        -6.949638
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Burnt Island",
+                "target": "The Dawn Treader - Stern Cabin",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.104272,
+                        5.304035
+                    ],
+                    [
+                        7.431408,
+                        8.872558
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Deathwater Island - Bay",
+                "target": "Deathwater Island - Hill",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.431408,
+                        8.872558
+                    ],
+                    [
+                        4.525139,
+                        11.8342606
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Deathwater Island - Hill",
+                "target": "Deathwater Island - Lake",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.525139,
+                        11.8342606
+                    ],
+                    [
+                        -0.60433226,
+                        13.676738
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Deathwater Island - Lake",
+                "target": "The Dawn Treader",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.16327928,
+                        32.048404
+                    ],
+                    [
+                        -3.3043799999999997,
+                        35.481042
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Gardens",
+                "target": "Coriakin's Island - Path",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.16327928,
+                        32.048404
+                    ],
+                    [
+                        2.7504394999999997,
+                        27.898336999999998
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Gardens",
+                "target": "Coriakin's Island - Bay",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.3043799999999997,
+                        35.481042
+                    ],
+                    [
+                        -2.606495,
+                        38.920553999999996
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Path",
+                "target": "Coriakin's Island - Outside the House",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.606495,
+                        38.920553999999996
+                    ],
+                    [
+                        1.4754918,
+                        37.970166
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Outside the House",
+                "target": "Coriakin's Island - Beach",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.4754918,
+                        37.970166
+                    ],
+                    [
+                        5.108889,
+                        34.675958
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Beach",
+                "target": "Coriakin's Island - Hall",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.108889,
+                        34.675958
+                    ],
+                    [
+                        8.4843765,
+                        35.829324
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Hall",
+                "target": "Coriakin's Island - Lucy's Bedroom",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.108889,
+                        34.675958
+                    ],
+                    [
+                        4.5355267,
+                        42.145154000000005
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Hall",
+                "target": "Coriakin's Island - Stairs",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.108889,
+                        34.675958
+                    ],
+                    [
+                        2.7504394999999997,
+                        27.898336999999998
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Hall",
+                "target": "Coriakin's Island - Bay",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.4843765,
+                        35.829324
+                    ],
+                    [
+                        5.108889,
+                        34.675958
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Lucy's Bedroom",
+                "target": "Coriakin's Island - Hall",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.5355267,
+                        42.145154000000005
+                    ],
+                    [
+                        4.395279,
+                        49.967667
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Stairs",
+                "target": "Coriakin's Island - Passageway",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.5355267,
+                        42.145154000000005
+                    ],
+                    [
+                        0.16327928,
+                        32.048404
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Stairs",
+                "target": "Coriakin's Island - Gardens",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.395279,
+                        49.967667
+                    ],
+                    [
+                        3.919018,
+                        54.629944
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Passageway",
+                "target": "Coriakin's Island - Room of the Book",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.395279,
+                        49.967667
+                    ],
+                    [
+                        8.384802,
+                        48.712305
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Passageway",
+                "target": "Coriakin's Island - Parlour",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.919018,
+                        54.629944
+                    ],
+                    [
+                        4.395279,
+                        49.967667
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Room of the Book",
+                "target": "Coriakin's Island - Passageway",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        8.384802,
+                        48.712305
+                    ],
+                    [
+                        7.095929,
+                        45.243216000000004
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Parlour",
+                "target": "Coriakin's Island - Room of Instruments",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.095929,
+                        45.243216000000004
+                    ],
+                    [
+                        4.5355267,
+                        42.145154000000005
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Room of Instruments",
+                "target": "Coriakin's Island - Stairs",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7504394999999997,
+                        27.898336999999998
+                    ],
+                    [
+                        5.108889,
+                        34.675958
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Bay",
+                "target": "Coriakin's Island - Hall",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.7504394999999997,
+                        27.898336999999998
+                    ],
+                    [
+                        -0.60433226,
+                        13.676738
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Coriakin's Island - Bay",
+                "target": "The Dawn Treader",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.374861,
+                        0.39243753
+                    ],
+                    [
+                        -11.064125,
+                        2.3441475
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - The Bows",
+                "target": "The Dawn Treader - Main Deck",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.8708984,
+                        3.9937393
+                    ],
+                    [
+                        -11.064125,
+                        2.3441475
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Near the Dark Island",
+                "target": "The Dawn Treader - Main Deck",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.1639662,
+                        19.31198
+                    ],
+                    [
+                        -4.7590755,
+                        19.527393
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Ramandu's Island - Bay",
+                "target": "Ramandu's Island - Aslan's Table",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.7590755,
+                        19.527393
+                    ],
+                    [
+                        -0.60433226,
+                        13.676738
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Ramandu's Island - Aslan's Table",
+                "target": "The Dawn Treader",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -15.269176999999999,
+                        -2.807555
+                    ],
+                    [
+                        -11.064125,
+                        2.3441475
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Above the Sea People",
+                "target": "The Dawn Treader - Main Deck",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.36037,
+                        10.361664000000001
+                    ],
+                    [
+                        -16.099942,
+                        7.9838260000000005
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Eastern Sea",
+                "target": "The Dawn Treader - Silver Sea",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -16.099942,
+                        7.9838260000000005
+                    ],
+                    [
+                        -11.064125,
+                        2.3441475
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Dawn Treader - Silver Sea",
+                "target": "The Dawn Treader - Main Deck",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -24.142008999999998,
+                        -5.5862
+                    ],
+                    [
+                        -30.667532,
+                        -2.2615257
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Boat - Towards the Edge of the World",
+                "target": "The Edge of the World",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -30.667532,
+                        -2.2615257
+                    ],
+                    [
+                        -31.65171,
+                        1.5308538
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Edge of the World",
+                "target": "The Lion and the Lamb",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -31.65171,
+                        1.5308538
+                    ],
+                    [
+                        -28.74176,
+                        6.0402153
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Lion and the Lamb",
+                "target": "The Scrubb's - Lucy's Room",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1545 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7721093999999997,
+                    7.126963
+                ]
+            },
+            "properties": {
+                "id": "Sunday walks",
+                "label": "Sunday walks",
+                "0": "metanarrative",
+                "1": "2432",
+                "size": 11.085654,
+                "r": "0",
+                "g": "196",
+                "b": "255",
+                "x": -2.7721093999999997,
+                "y": 7.126963
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7596336,
+                    4.5363187
+                ]
+            },
+            "properties": {
+                "id": "by-way",
+                "label": "by-way",
+                "0": "threshold",
+                "1": "11037",
+                "size": 16.539278,
+                "r": "223",
+                "g": "137",
+                "b": "255",
+                "x": -1.7596336,
+                "y": 4.5363187
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.043470592,
+                    5.9911522999999995
+                ]
+            },
+            "properties": {
+                "id": "London",
+                "label": "London",
+                "0": "road",
+                "1": "5152",
+                "size": 12.809519,
+                "r": "115",
+                "g": "192",
+                "b": "0",
+                "x": -0.043470592,
+                "y": 5.9911522999999995
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7551254,
+                    3.5971463
+                ]
+            },
+            "properties": {
+                "id": "busy quarter of London",
+                "label": "busy quarter of London",
+                "0": "road",
+                "1": "1910",
+                "size": 10.754825,
+                "r": "115",
+                "g": "192",
+                "b": "0",
+                "x": 1.7551254,
+                "y": 3.5971463
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1307994,
+                    1.4106647
+                ]
+            },
+            "properties": {
+                "id": "Utterson\u2019s house",
+                "label": "Utterson\u2019s house",
+                "0": "parlour",
+                "1": "12575",
+                "size": 17.514023,
+                "r": "255",
+                "g": "136",
+                "b": "5",
+                "x": 2.1307994,
+                "y": 1.4106647
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8250453,
+                    -4.5027567
+                ]
+            },
+            "properties": {
+                "id": "Lanyon\u2019s house",
+                "label": "Lanyon\u2019s house",
+                "0": "parlour",
+                "1": "16183",
+                "size": 19.800678,
+                "r": "255",
+                "g": "136",
+                "b": "5",
+                "x": -0.8250453,
+                "y": -4.5027567
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.749428,
+                    4.5385092
+                ]
+            },
+            "properties": {
+                "id": "Utterson\u2019s imaginings",
+                "label": "Utterson\u2019s imaginings",
+                "0": "distortion",
+                "1": "1309",
+                "size": 10.373926,
+                "r": "0",
+                "g": "189",
+                "b": "148",
+                "x": 5.749428,
+                "y": 4.5385092
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.31622786999999997,
+                    -0.08330422999999999
+                ]
+            },
+            "properties": {
+                "id": "Jekyll\u2019s house",
+                "label": "Jekyll\u2019s house",
+                "0": "threshold",
+                "1": "32276",
+                "size": 30.0,
+                "r": "223",
+                "g": "137",
+                "b": "255",
+                "x": -0.31622786999999997,
+                "y": -0.08330422999999999
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7914285,
+                    1.09094696
+                ]
+            },
+            "properties": {
+                "id": "London streets",
+                "label": "London streets",
+                "0": "road",
+                "1": "2941",
+                "size": 11.408245,
+                "r": "115",
+                "g": "192",
+                "b": "0",
+                "x": -1.7914285,
+                "y": 1.09094696
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.555953,
+                    0.9681215000000001
+                ]
+            },
+            "properties": {
+                "id": "lane by the Thames",
+                "label": "lane by the Thames",
+                "0": "public square",
+                "1": "3939",
+                "size": 12.040751,
+                "r": "76",
+                "g": "70",
+                "b": "62",
+                "x": 6.555953,
+                "y": 0.9681215000000001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9200800000000005,
+                    2.7714835
+                ]
+            },
+            "properties": {
+                "id": "maid\u2019s bedroom",
+                "label": "maid\u2019s bedroom",
+                "0": "threshold",
+                "1": "2243",
+                "size": 10.965871,
+                "r": "223",
+                "g": "137",
+                "b": "255",
+                "x": 7.9200800000000005,
+                "y": 2.7714835
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2617853,
+                    9.142724600000001
+                ]
+            },
+            "properties": {
+                "id": "police station",
+                "label": "police station",
+                "0": "public square",
+                "1": "965",
+                "size": 10.155909,
+                "r": "76",
+                "g": "70",
+                "b": "62",
+                "x": 3.2617853,
+                "y": 9.142724600000001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2392441,
+                    10.70676
+                ]
+            },
+            "properties": {
+                "id": "Soho",
+                "label": "Soho",
+                "0": "road",
+                "1": "1791",
+                "size": 10.679405,
+                "r": "115",
+                "g": "192",
+                "b": "0",
+                "x": 2.2392441,
+                "y": 10.70676
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9834901,
+                    7.9736194000000005
+                ]
+            },
+            "properties": {
+                "id": "Hyde\u2019s house",
+                "label": "Hyde\u2019s house",
+                "0": "threshold",
+                "1": "1947",
+                "size": 10.778275,
+                "r": "223",
+                "g": "137",
+                "b": "255",
+                "x": 0.9834901,
+                "y": 7.9736194000000005
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7360832,
+                    -3.1328519999999997
+                ]
+            },
+            "properties": {
+                "id": "Hyde\u2019s disappearance",
+                "label": "Hyde\u2019s disappearance",
+                "0": "metanarrative",
+                "1": "1996",
+                "size": 10.809329,
+                "r": "0",
+                "g": "196",
+                "b": "255",
+                "x": 1.7360832,
+                "y": -3.1328519999999997
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4894214,
+                    5.383258
+                ]
+            },
+            "properties": {
+                "id": "court",
+                "label": "court",
+                "0": "threshold",
+                "1": "1572",
+                "size": 10.540609,
+                "r": "223",
+                "g": "137",
+                "b": "255",
+                "x": -5.4894214,
+                "y": 5.383258
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7103481999999999,
+                    -2.1772270000000002
+                ]
+            },
+            "properties": {
+                "id": "laboratory",
+                "label": "laboratory",
+                "0": "threshold",
+                "1": "10564",
+                "size": 16.239502,
+                "r": "223",
+                "g": "137",
+                "b": "255",
+                "x": -1.7103481999999999,
+                "y": -2.1772270000000002
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.438999,
+                    -5.895298
+                ]
+            },
+            "properties": {
+                "id": "Jekyll\u2019s letter",
+                "label": "Jekyll\u2019s letter",
+                "0": "metanarrative",
+                "1": "3452",
+                "size": 11.732103,
+                "r": "0",
+                "g": "196",
+                "b": "255",
+                "x": -5.438999,
+                "y": -5.895298
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3407124,
+                    -6.807954
+                ]
+            },
+            "properties": {
+                "id": "Jekyll\u2019s narrative",
+                "label": "Jekyll\u2019s narrative",
+                "0": "metanarrative",
+                "1": "19299",
+                "size": 21.775517,
+                "r": "0",
+                "g": "196",
+                "b": "255",
+                "x": 1.3407124,
+                "y": -6.807954
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.630736000000001,
+                    -7.801114999999999
+                ]
+            },
+            "properties": {
+                "id": "Jekyll\u2019s cabinet",
+                "label": "Jekyll\u2019s cabinet",
+                "0": "encounter",
+                "1": "1728",
+                "size": 10.639478,
+                "r": "211",
+                "g": "179",
+                "b": "176",
+                "x": 7.630736000000001,
+                "y": -7.801114999999999
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2975708,
+                    -10.011151
+                ]
+            },
+            "properties": {
+                "id": "lamplit streets",
+                "label": "lamplit streets",
+                "0": "road",
+                "1": "1777",
+                "size": 10.670532,
+                "r": "115",
+                "g": "192",
+                "b": "0",
+                "x": 4.2975708,
+                "y": -10.011151
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.02534317,
+                    -10.587351000000002
+                ]
+            },
+            "properties": {
+                "id": "Regent\u2019s Park",
+                "label": "Regent\u2019s Park",
+                "0": "threshold",
+                "1": "2894",
+                "size": 11.378458,
+                "r": "223",
+                "g": "137",
+                "b": "255",
+                "x": 0.02534317,
+                "y": -10.587351000000002
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0812755999999997,
+                    -8.941040600000001
+                ]
+            },
+            "properties": {
+                "id": "hotel in Portland Square",
+                "label": "hotel in Portland Square",
+                "0": "castle",
+                "1": "941",
+                "size": 10.1406975,
+                "r": "255",
+                "g": "85",
+                "b": "132",
+                "x": -2.0812755999999997,
+                "y": -8.941040600000001
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6093532,
+                    -7.7117255
+                ]
+            },
+            "properties": {
+                "id": "streets of the city",
+                "label": "streets of the city",
+                "0": "road",
+                "1": "719",
+                "size": 10.0,
+                "r": "115",
+                "g": "192",
+                "b": "0",
+                "x": -1.6093532,
+                "y": -7.7117255
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.7721093999999997,
+                        7.126963
+                    ],
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Sunday walks",
+                "target": "by-way",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ],
+                    [
+                        -0.043470592,
+                        5.9911522999999995
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "by-way",
+                "target": "London",
+                "weight": "1.0",
+                "2": "charshift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ],
+                    [
+                        1.7551254,
+                        3.5971463
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "by-way",
+                "target": "busy quarter of London",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ],
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "by-way",
+                "target": "Jekyll\u2019s house",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ],
+                    [
+                        -5.4894214,
+                        5.383258
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "by-way",
+                "target": "court",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ],
+                    [
+                        2.1307994,
+                        1.4106647
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "by-way",
+                "target": "Utterson\u2019s house",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.043470592,
+                        5.9911522999999995
+                    ],
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "by-way",
+                "weight": "1.0",
+                "2": "interrupt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.043470592,
+                        5.9911522999999995
+                    ],
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "Jekyll\u2019s house",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7551254,
+                        3.5971463
+                    ],
+                    [
+                        2.1307994,
+                        1.4106647
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "busy quarter of London",
+                "target": "Utterson\u2019s house",
+                "weight": "1.0",
+                "2": "indirect"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1307994,
+                        1.4106647
+                    ],
+                    [
+                        -0.8250453,
+                        -4.5027567
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Utterson\u2019s house",
+                "target": "Lanyon\u2019s house",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1307994,
+                        1.4106647
+                    ],
+                    [
+                        5.749428,
+                        4.5385092
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Utterson\u2019s house",
+                "target": "Utterson\u2019s imaginings",
+                "weight": "1.0",
+                "2": "projection"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1307994,
+                        1.4106647
+                    ],
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Utterson\u2019s house",
+                "target": "by-way",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1307994,
+                        1.4106647
+                    ],
+                    [
+                        3.2617853,
+                        9.142724600000001
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Utterson\u2019s house",
+                "target": "police station",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1307994,
+                        1.4106647
+                    ],
+                    [
+                        1.7360832,
+                        -3.1328519999999997
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Utterson\u2019s house",
+                "target": "Hyde\u2019s disappearance",
+                "weight": "1.0",
+                "2": "intratextual"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1307994,
+                        1.4106647
+                    ],
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Utterson\u2019s house",
+                "target": "Jekyll\u2019s house",
+                "weight": "1.0",
+                "2": "indirect"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1307994,
+                        1.4106647
+                    ],
+                    [
+                        -1.7914285,
+                        1.09094696
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Utterson\u2019s house",
+                "target": "London streets",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.8250453,
+                        -4.5027567
+                    ],
+                    [
+                        2.1307994,
+                        1.4106647
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Lanyon\u2019s house",
+                "target": "Utterson\u2019s house",
+                "weight": "1.0",
+                "2": "indirect"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.8250453,
+                        -4.5027567
+                    ],
+                    [
+                        -5.438999,
+                        -5.895298
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Lanyon\u2019s house",
+                "target": "Jekyll\u2019s letter",
+                "weight": "1.0",
+                "2": "intratextual"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.8250453,
+                        -4.5027567
+                    ],
+                    [
+                        1.3407124,
+                        -6.807954
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Lanyon\u2019s house",
+                "target": "Jekyll\u2019s narrative",
+                "weight": "1.0",
+                "2": "intratextual"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.749428,
+                        4.5385092
+                    ],
+                    [
+                        2.1307994,
+                        1.4106647
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Utterson\u2019s imaginings",
+                "target": "Utterson\u2019s house",
+                "weight": "1.0",
+                "2": "interrupt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ],
+                    [
+                        -1.7914285,
+                        1.09094696
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s house",
+                "target": "London streets",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ],
+                    [
+                        6.555953,
+                        0.9681215000000001
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s house",
+                "target": "lane by the Thames",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ],
+                    [
+                        2.1307994,
+                        1.4106647
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s house",
+                "target": "Utterson\u2019s house",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ],
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s house",
+                "target": "by-way",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ],
+                    [
+                        -1.7103481999999999,
+                        -2.1772270000000002
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s house",
+                "target": "laboratory",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ],
+                    [
+                        1.3407124,
+                        -6.807954
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s house",
+                "target": "Jekyll\u2019s narrative",
+                "weight": "1.0",
+                "2": "interrupt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7914285,
+                        1.09094696
+                    ],
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London streets",
+                "target": "Jekyll\u2019s house",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.555953,
+                        0.9681215000000001
+                    ],
+                    [
+                        7.9200800000000005,
+                        2.7714835
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "lane by the Thames",
+                "target": "maid\u2019s bedroom",
+                "weight": "1.0",
+                "2": "charshift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.555953,
+                        0.9681215000000001
+                    ],
+                    [
+                        2.1307994,
+                        1.4106647
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "lane by the Thames",
+                "target": "Utterson\u2019s house",
+                "weight": "1.0",
+                "2": "indirect"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.9200800000000005,
+                        2.7714835
+                    ],
+                    [
+                        6.555953,
+                        0.9681215000000001
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "maid\u2019s bedroom",
+                "target": "lane by the Thames",
+                "weight": "1.0",
+                "2": "charshift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.2617853,
+                        9.142724600000001
+                    ],
+                    [
+                        2.2392441,
+                        10.70676
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "police station",
+                "target": "Soho",
+                "weight": "1.0",
+                "2": "indirect"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.2392441,
+                        10.70676
+                    ],
+                    [
+                        0.9834901,
+                        7.9736194000000005
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Soho",
+                "target": "Hyde\u2019s house",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.9834901,
+                        7.9736194000000005
+                    ],
+                    [
+                        -0.043470592,
+                        5.9911522999999995
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Hyde\u2019s house",
+                "target": "London",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.7360832,
+                        -3.1328519999999997
+                    ],
+                    [
+                        -0.8250453,
+                        -4.5027567
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Hyde\u2019s disappearance",
+                "target": "Lanyon\u2019s house",
+                "weight": "1.0",
+                "2": "interrupt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.4894214,
+                        5.383258
+                    ],
+                    [
+                        -1.7596336,
+                        4.5363187
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "court",
+                "target": "by-way",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7103481999999999,
+                        -2.1772270000000002
+                    ],
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "laboratory",
+                "target": "Jekyll\u2019s house",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.7103481999999999,
+                        -2.1772270000000002
+                    ],
+                    [
+                        -0.8250453,
+                        -4.5027567
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "laboratory",
+                "target": "Lanyon\u2019s house",
+                "weight": "1.0",
+                "2": "charshift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.438999,
+                        -5.895298
+                    ],
+                    [
+                        -0.8250453,
+                        -4.5027567
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s letter",
+                "target": "Lanyon\u2019s house",
+                "weight": "1.0",
+                "2": "interrupt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3407124,
+                        -6.807954
+                    ],
+                    [
+                        7.630736000000001,
+                        -7.801114999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s narrative",
+                "target": "Jekyll\u2019s cabinet",
+                "weight": "1.0",
+                "2": "projection"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3407124,
+                        -6.807954
+                    ],
+                    [
+                        -0.31622786999999997,
+                        -0.08330422999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s narrative",
+                "target": "Jekyll\u2019s house",
+                "weight": "1.0",
+                "2": "projection"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.3407124,
+                        -6.807954
+                    ],
+                    [
+                        0.02534317,
+                        -10.587351000000002
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s narrative",
+                "target": "Regent\u2019s Park",
+                "weight": "1.0",
+                "2": "projection"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        7.630736000000001,
+                        -7.801114999999999
+                    ],
+                    [
+                        1.3407124,
+                        -6.807954
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Jekyll\u2019s cabinet",
+                "target": "Jekyll\u2019s narrative",
+                "weight": "1.0",
+                "2": "interrupt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.2975708,
+                        -10.011151
+                    ],
+                    [
+                        1.3407124,
+                        -6.807954
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "lamplit streets",
+                "target": "Jekyll\u2019s narrative",
+                "weight": "1.0",
+                "2": "interrupt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.02534317,
+                        -10.587351000000002
+                    ],
+                    [
+                        -2.0812755999999997,
+                        -8.941040600000001
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Regent\u2019s Park",
+                "target": "hotel in Portland Square",
+                "weight": "1.0",
+                "2": "indirect"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.0812755999999997,
+                        -8.941040600000001
+                    ],
+                    [
+                        -1.6093532,
+                        -7.7117255
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "hotel in Portland Square",
+                "target": "streets of the city",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.6093532,
+                        -7.7117255
+                    ],
+                    [
+                        -0.8250453,
+                        -4.5027567
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "streets of the city",
+                "target": "Lanyon\u2019s house",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        }
+    ]
+}

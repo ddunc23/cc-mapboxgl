@@ -1,0 +1,2046 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.511765700000001,
+                    8.0158875
+                ]
+            },
+            "properties": {
+                "id": "Hors texte",
+                "label": "Hors texte",
+                "0": "metanarrative",
+                "1": "605",
+                "size": 10.221602,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 4.511765700000001,
+                "y": 8.0158875,
+                "icon": "metanarrative"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8233425999999997,
+                    6.616994999999999
+                ]
+            },
+            "properties": {
+                "id": "Narnia Preamble",
+                "label": "Narnia Preamble",
+                "0": "metanarrative",
+                "1": "691",
+                "size": 10.311499,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 3.8233425999999997,
+                "y": 6.616994999999999,
+                "icon": "metanarrative"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8931905999999996,
+                    5.7943317
+                ]
+            },
+            "properties": {
+                "id": "The Ketterleys' Back Garden",
+                "label": "The Ketterleys' Back Garden",
+                "0": "encounter",
+                "1": "4548",
+                "size": 14.343205,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 2.8931905999999996,
+                "y": 5.7943317,
+                "icon": "encounter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.57528137,
+                    4.241517
+                ]
+            },
+            "properties": {
+                "id": "Smugglers' Cave",
+                "label": "Smugglers' Cave",
+                "0": "idyll",
+                "1": "4506",
+                "size": 14.299303,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 0.57528137,
+                "y": 4.241517,
+                "icon": "idyll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6413202,
+                    2.7078546
+                ]
+            },
+            "properties": {
+                "id": "In the Attics",
+                "label": "In the Attics",
+                "0": "threshold",
+                "1": "615",
+                "size": 10.232056,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 0.6413202,
+                "y": 2.7078546,
+                "icon": "threshold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1479791,
+                    -0.35540485
+                ]
+            },
+            "properties": {
+                "id": "Uncle Andrew's Study",
+                "label": "Uncle Andrew's Study",
+                "0": "castle",
+                "1": "29093",
+                "size": 40.0,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 2.1479791,
+                "y": -0.35540485,
+                "icon": "castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37738052000000005,
+                    0.5898184599999999
+                ]
+            },
+            "properties": {
+                "id": "The Wood Between the Worlds",
+                "label": "The Wood Between the Worlds",
+                "0": "threshold",
+                "1": "22230",
+                "size": 32.826134,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -0.37738052000000005,
+                "y": 0.5898184599999999,
+                "icon": "threshold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3952099,
+                    -3.2843323
+                ]
+            },
+            "properties": {
+                "id": "Charn - First Courtyard",
+                "label": "Charn - First Courtyard",
+                "0": "anti-idyll",
+                "1": "4347",
+                "size": 14.133101,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -0.3952099,
+                "y": -3.2843323,
+                "icon": "anti-idyll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09420872,
+                    -4.4256583
+                ]
+            },
+            "properties": {
+                "id": "Charn - Second Courtyard",
+                "label": "Charn - Second Courtyard",
+                "0": "anti-idyll",
+                "1": "589",
+                "size": 10.204878,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -0.09420872,
+                "y": -4.4256583,
+                "icon": "anti-idyll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8648945,
+                    -5.4805334000000006
+                ]
+            },
+            "properties": {
+                "id": "Charn - Through the Palace",
+                "label": "Charn - Through the Palace",
+                "0": "road",
+                "1": "2031",
+                "size": 11.712195,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 0.8648945,
+                "y": -5.4805334000000006,
+                "icon": "road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3921276,
+                    -6.383022499999999
+                ]
+            },
+            "properties": {
+                "id": "Charn - Hall of Images",
+                "label": "Charn - Hall of Images",
+                "0": "castle",
+                "1": "12821",
+                "size": 22.99094,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 0.3921276,
+                "y": -6.383022499999999,
+                "icon": "castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.991633,
+                    -3.0167194
+                ]
+            },
+            "properties": {
+                "id": "Charn - Palace Entrance",
+                "label": "Charn - Palace Entrance",
+                "0": "threshold",
+                "1": "10314",
+                "size": 20.370384,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 1.991633,
+                "y": -3.0167194,
+                "icon": "threshold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.902533,
+                    -2.0124043
+                ]
+            },
+            "properties": {
+                "id": "Uncle Andrew's Bedroom",
+                "label": "Uncle Andrew's Bedroom",
+                "0": "parlour",
+                "1": "2516",
+                "size": 12.219164,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 4.902533,
+                "y": -2.0124043,
+                "icon": "parlour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.813681,
+                    -2.3501689999999997
+                ]
+            },
+            "properties": {
+                "id": "The Ketterleys' Drawing-Room",
+                "label": "The Ketterleys' Drawing-Room",
+                "0": "parlour",
+                "1": "6905",
+                "size": 16.806969,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 5.813681,
+                "y": -2.3501689999999997,
+                "icon": "parlour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.133001,
+                    -2.7961432000000004
+                ]
+            },
+            "properties": {
+                "id": "The Ketterleys' Front Door",
+                "label": "The Ketterleys' Front Door",
+                "0": "threshold",
+                "1": "393",
+                "size": 10.0,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 6.133001,
+                "y": -2.7961432000000004,
+                "icon": "threshold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.134266,
+                    -0.917281
+                ]
+            },
+            "properties": {
+                "id": "The Ketterleys' Dining-Room",
+                "label": "The Ketterleys' Dining-Room",
+                "0": "parlour",
+                "1": "3103",
+                "size": 12.832752,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 6.134266,
+                "y": -0.917281,
+                "icon": "parlour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8247925,
+                    -0.25189604
+                ]
+            },
+            "properties": {
+                "id": "Polly's House",
+                "label": "Polly's House",
+                "0": "castle",
+                "1": "1147",
+                "size": 10.788154,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 6.8247925,
+                "y": -0.25189604,
+                "icon": "castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5093349999999996,
+                    1.27781425
+                ]
+            },
+            "properties": {
+                "id": "The Street Outside the Ketterleys' House",
+                "label": "The Street Outside the Ketterleys' House",
+                "0": "public square",
+                "1": "9841",
+                "size": 19.875957,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 3.5093349999999996,
+                "y": 1.27781425,
+                "icon": "public square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3805997,
+                    3.4080374
+                ]
+            },
+            "properties": {
+                "id": "Narnia - Nothing",
+                "label": "Narnia - Nothing",
+                "0": "threshold",
+                "1": "3197",
+                "size": 12.93101,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -2.3805997,
+                "y": 3.4080374,
+                "icon": "threshold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5578467000000003,
+                    2.9291437
+                ]
+            },
+            "properties": {
+                "id": "Narnia - Coming into Being",
+                "label": "Narnia - Coming into Being",
+                "0": "idyll",
+                "1": "5928",
+                "size": 15.785714,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -3.5578467000000003,
+                "y": 2.9291437,
+                "icon": "idyll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.2870667,
+                    2.4693088
+                ]
+            },
+            "properties": {
+                "id": "Narnia - The Founding of Narnia",
+                "label": "Narnia - The Founding of Narnia",
+                "0": "idyll",
+                "1": "8084",
+                "size": 18.039371,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -4.2870667,
+                "y": 2.4693088,
+                "icon": "idyll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9163858,
+                    1.8401192
+                ]
+            },
+            "properties": {
+                "id": "Narnia - The Lamp-Post",
+                "label": "Narnia - The Lamp-Post",
+                "0": "threshold",
+                "1": "3209",
+                "size": 12.943554,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -4.9163858,
+                "y": 1.8401192,
+                "icon": "threshold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.555484,
+                    0.8216137
+                ]
+            },
+            "properties": {
+                "id": "Narnia - The Creation of the Animals",
+                "label": "Narnia - The Creation of the Animals",
+                "0": "idyll",
+                "1": "14362",
+                "size": 24.601742,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -5.555484,
+                "y": 0.8216137,
+                "icon": "idyll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9196204,
+                    0.008972266
+                ]
+            },
+            "properties": {
+                "id": "Narnia - Uncle Andrew by the River",
+                "label": "Narnia - Uncle Andrew by the River",
+                "0": "castle",
+                "1": "11024",
+                "size": 21.112545,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -5.9196204,
+                "y": 0.008972266,
+                "icon": "castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2478253,
+                    -0.8744392999999999
+                ]
+            },
+            "properties": {
+                "id": "Narnia - Aslan and his Councillors",
+                "label": "Narnia - Aslan and his Councillors",
+                "0": "parlour",
+                "1": "17623",
+                "size": 28.010452,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -6.2478253,
+                "y": -0.8744392999999999,
+                "icon": "parlour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.738211,
+                    -3.8509840000000004
+                ]
+            },
+            "properties": {
+                "id": "Narnia - Polly and Digory Fly West",
+                "label": "Narnia - Polly and Digory Fly West",
+                "0": "road",
+                "1": "2444",
+                "size": 12.143902,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -7.738211,
+                "y": -3.8509840000000004,
+                "icon": "road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3592053,
+                    -4.769345
+                ]
+            },
+            "properties": {
+                "id": "The Western Wild - Above the Wild Country",
+                "label": "The Western Wild - Above the Wild Country",
+                "0": "road",
+                "1": "959",
+                "size": 10.591638,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -8.3592053,
+                "y": -4.769345,
+                "icon": "road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.242969,
+                    -4.2189145
+                ]
+            },
+            "properties": {
+                "id": "The Western Wild - Camp",
+                "label": "The Western Wild - Camp",
+                "0": "wilderness",
+                "1": "6728",
+                "size": 16.621952,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -10.242969,
+                "y": -4.2189145,
+                "icon": "wilderness"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.16105,
+                    -3.3208832
+                ]
+            },
+            "properties": {
+                "id": "The Western Wild - Flight to the Garden",
+                "label": "The Western Wild - Flight to the Garden",
+                "0": "road",
+                "1": "1386",
+                "size": 11.037979,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -11.16105,
+                "y": -3.3208832,
+                "icon": "road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.563588,
+                    -2.2410568
+                ]
+            },
+            "properties": {
+                "id": "The Western Wild - Outside the Garden",
+                "label": "The Western Wild - Outside the Garden",
+                "0": "threshold",
+                "1": "7345",
+                "size": 17.2669,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -10.563588,
+                "y": -2.2410568,
+                "icon": "threshold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.940764,
+                    -0.8790998999999999
+                ]
+            },
+            "properties": {
+                "id": "The Garden",
+                "label": "The Garden",
+                "0": "idyll",
+                "1": "2772",
+                "size": 12.486759,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -12.940764,
+                "y": -0.8790998999999999,
+                "icon": "idyll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.211389,
+                    -1.5343604
+                ]
+            },
+            "properties": {
+                "id": "The Western Wild - Flight to Narnia",
+                "label": "The Western Wild - Flight to Narnia",
+                "0": "road",
+                "1": "1164",
+                "size": 10.805923,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -8.211389,
+                "y": -1.5343604,
+                "icon": "road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4046704,
+                    -2.1481651
+                ]
+            },
+            "properties": {
+                "id": "Narnia - Uncle Andrew Caged",
+                "label": "Narnia - Uncle Andrew Caged",
+                "0": "castle",
+                "1": "4761",
+                "size": 14.565853,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -3.4046704,
+                "y": -2.1481651,
+                "icon": "castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3498285,
+                    -1.3086886999999998
+                ]
+            },
+            "properties": {
+                "id": "Narnia - Coronation",
+                "label": "Narnia - Coronation",
+                "0": "public square",
+                "1": "1762",
+                "size": 11.43101,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -2.3498285,
+                "y": -1.3086886999999998,
+                "icon": "public square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1241085,
+                    -0.40855114
+                ]
+            },
+            "properties": {
+                "id": "Narnia - the Tree of Life",
+                "label": "Narnia - the Tree of Life",
+                "0": "public square",
+                "1": "4550",
+                "size": 14.345297,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": -1.1241085,
+                "y": -0.40855114,
+                "icon": "public square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8065643,
+                    4.3034772
+                ]
+            },
+            "properties": {
+                "id": "The Ketterleys' Hallway",
+                "label": "The Ketterleys' Hallway",
+                "0": "threshold",
+                "1": "1241",
+                "size": 10.886411,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 3.8065643,
+                "y": 4.3034772,
+                "icon": "threshold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0811218,
+                    5.0341147
+                ]
+            },
+            "properties": {
+                "id": "Digory's Mother's Sickbed",
+                "label": "Digory's Mother's Sickbed",
+                "0": "castle",
+                "1": "1964",
+                "size": 11.64216,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 4.0811218,
+                "y": 5.0341147,
+                "icon": "castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0796544,
+                    8.661271000000001
+                ]
+            },
+            "properties": {
+                "id": "The Ketterleys' House - Digory's Mother Recovers",
+                "label": "The Ketterleys' House - Digory's Mother Recovers",
+                "0": "idyll",
+                "1": "1466",
+                "size": 11.121603,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 2.0796544,
+                "y": 8.661271000000001,
+                "icon": "idyll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6840761,
+                    9.689345
+                ]
+            },
+            "properties": {
+                "id": "Postscript",
+                "label": "Postscript",
+                "0": "metanarrative",
+                "1": "3213",
+                "size": 12.947735,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": 1.6840761,
+                "y": 9.689345,
+                "icon": "metanarrative"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.511765700000001,
+                        8.0158875
+                    ],
+                    [
+                        3.8233425999999997,
+                        6.616994999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Hors texte",
+                "target": "Narnia Preamble",
+                "weight": "1.0",
+                "2": "paratextual"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8233425999999997,
+                        6.616994999999999
+                    ],
+                    [
+                        2.8931905999999996,
+                        5.7943317
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia Preamble",
+                "target": "The Ketterleys' Back Garden",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8931905999999996,
+                        5.7943317
+                    ],
+                    [
+                        0.57528137,
+                        4.241517
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Back Garden",
+                "target": "Smugglers' Cave",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8931905999999996,
+                        5.7943317
+                    ],
+                    [
+                        3.8065643,
+                        4.3034772
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Back Garden",
+                "target": "The Ketterleys' Hallway",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.8931905999999996,
+                        5.7943317
+                    ],
+                    [
+                        2.0796544,
+                        8.661271000000001
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Back Garden",
+                "target": "The Ketterleys' House - Digory's Mother Recovers",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.57528137,
+                        4.241517
+                    ],
+                    [
+                        0.6413202,
+                        2.7078546
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Smugglers' Cave",
+                "target": "In the Attics",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.6413202,
+                        2.7078546
+                    ],
+                    [
+                        2.1479791,
+                        -0.35540485
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "In the Attics",
+                "target": "Uncle Andrew's Study",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1479791,
+                        -0.35540485
+                    ],
+                    [
+                        -0.37738052000000005,
+                        0.5898184599999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Uncle Andrew's Study",
+                "target": "The Wood Between the Worlds",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.1479791,
+                        -0.35540485
+                    ],
+                    [
+                        4.902533,
+                        -2.0124043
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Uncle Andrew's Study",
+                "target": "Uncle Andrew's Bedroom",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.37738052000000005,
+                        0.5898184599999999
+                    ],
+                    [
+                        -0.3952099,
+                        -3.2843323
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Wood Between the Worlds",
+                "target": "Charn - First Courtyard",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.37738052000000005,
+                        0.5898184599999999
+                    ],
+                    [
+                        2.1479791,
+                        -0.35540485
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Wood Between the Worlds",
+                "target": "Uncle Andrew's Study",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.37738052000000005,
+                        0.5898184599999999
+                    ],
+                    [
+                        -2.3805997,
+                        3.4080374
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Wood Between the Worlds",
+                "target": "Narnia - Nothing",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.37738052000000005,
+                        0.5898184599999999
+                    ],
+                    [
+                        3.5093349999999996,
+                        1.27781425
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Wood Between the Worlds",
+                "target": "The Street Outside the Ketterleys' House",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.3952099,
+                        -3.2843323
+                    ],
+                    [
+                        -0.09420872,
+                        -4.4256583
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Charn - First Courtyard",
+                "target": "Charn - Second Courtyard",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.09420872,
+                        -4.4256583
+                    ],
+                    [
+                        0.8648945,
+                        -5.4805334000000006
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Charn - Second Courtyard",
+                "target": "Charn - Through the Palace",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.8648945,
+                        -5.4805334000000006
+                    ],
+                    [
+                        0.3921276,
+                        -6.383022499999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Charn - Through the Palace",
+                "target": "Charn - Hall of Images",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.8648945,
+                        -5.4805334000000006
+                    ],
+                    [
+                        1.991633,
+                        -3.0167194
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Charn - Through the Palace",
+                "target": "Charn - Palace Entrance",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.3921276,
+                        -6.383022499999999
+                    ],
+                    [
+                        0.8648945,
+                        -5.4805334000000006
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Charn - Hall of Images",
+                "target": "Charn - Through the Palace",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        1.991633,
+                        -3.0167194
+                    ],
+                    [
+                        -0.37738052000000005,
+                        0.5898184599999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Charn - Palace Entrance",
+                "target": "The Wood Between the Worlds",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.902533,
+                        -2.0124043
+                    ],
+                    [
+                        5.813681,
+                        -2.3501689999999997
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Uncle Andrew's Bedroom",
+                "target": "The Ketterleys' Drawing-Room",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.813681,
+                        -2.3501689999999997
+                    ],
+                    [
+                        6.133001,
+                        -2.7961432000000004
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Drawing-Room",
+                "target": "The Ketterleys' Front Door",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.813681,
+                        -2.3501689999999997
+                    ],
+                    [
+                        6.134266,
+                        -0.917281
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Drawing-Room",
+                "target": "The Ketterleys' Dining-Room",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.133001,
+                        -2.7961432000000004
+                    ],
+                    [
+                        5.813681,
+                        -2.3501689999999997
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Front Door",
+                "target": "The Ketterleys' Drawing-Room",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.134266,
+                        -0.917281
+                    ],
+                    [
+                        6.8247925,
+                        -0.25189604
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Dining-Room",
+                "target": "Polly's House",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.134266,
+                        -0.917281
+                    ],
+                    [
+                        3.5093349999999996,
+                        1.27781425
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Dining-Room",
+                "target": "The Street Outside the Ketterleys' House",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.8247925,
+                        -0.25189604
+                    ],
+                    [
+                        6.134266,
+                        -0.917281
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Polly's House",
+                "target": "The Ketterleys' Dining-Room",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.5093349999999996,
+                        1.27781425
+                    ],
+                    [
+                        -0.37738052000000005,
+                        0.5898184599999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Street Outside the Ketterleys' House",
+                "target": "The Wood Between the Worlds",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.5093349999999996,
+                        1.27781425
+                    ],
+                    [
+                        3.8065643,
+                        4.3034772
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Street Outside the Ketterleys' House",
+                "target": "The Ketterleys' Hallway",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.3805997,
+                        3.4080374
+                    ],
+                    [
+                        -3.5578467000000003,
+                        2.9291437
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - Nothing",
+                "target": "Narnia - Coming into Being",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.5578467000000003,
+                        2.9291437
+                    ],
+                    [
+                        -4.2870667,
+                        2.4693088
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - Coming into Being",
+                "target": "Narnia - The Founding of Narnia",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.2870667,
+                        2.4693088
+                    ],
+                    [
+                        -4.9163858,
+                        1.8401192
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - The Founding of Narnia",
+                "target": "Narnia - The Lamp-Post",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.9163858,
+                        1.8401192
+                    ],
+                    [
+                        -5.555484,
+                        0.8216137
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - The Lamp-Post",
+                "target": "Narnia - The Creation of the Animals",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.555484,
+                        0.8216137
+                    ],
+                    [
+                        -6.2478253,
+                        -0.8744392999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - The Creation of the Animals",
+                "target": "Narnia - Aslan and his Councillors",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.555484,
+                        0.8216137
+                    ],
+                    [
+                        -5.9196204,
+                        0.008972266
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - The Creation of the Animals",
+                "target": "Narnia - Uncle Andrew by the River",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -5.9196204,
+                        0.008972266
+                    ],
+                    [
+                        -6.2478253,
+                        -0.8744392999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - Uncle Andrew by the River",
+                "target": "Narnia - Aslan and his Councillors",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6.2478253,
+                        -0.8744392999999999
+                    ],
+                    [
+                        -7.738211,
+                        -3.8509840000000004
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - Aslan and his Councillors",
+                "target": "Narnia - Polly and Digory Fly West",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -6.2478253,
+                        -0.8744392999999999
+                    ],
+                    [
+                        -3.4046704,
+                        -2.1481651
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - Aslan and his Councillors",
+                "target": "Narnia - Uncle Andrew Caged",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -7.738211,
+                        -3.8509840000000004
+                    ],
+                    [
+                        -8.3592053,
+                        -4.769345
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - Polly and Digory Fly West",
+                "target": "The Western Wild - Above the Wild Country",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.3592053,
+                        -4.769345
+                    ],
+                    [
+                        -10.242969,
+                        -4.2189145
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Western Wild - Above the Wild Country",
+                "target": "The Western Wild - Camp",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -10.242969,
+                        -4.2189145
+                    ],
+                    [
+                        -11.16105,
+                        -3.3208832
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Western Wild - Camp",
+                "target": "The Western Wild - Flight to the Garden",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -11.16105,
+                        -3.3208832
+                    ],
+                    [
+                        -10.563588,
+                        -2.2410568
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Western Wild - Flight to the Garden",
+                "target": "The Western Wild - Outside the Garden",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -10.563588,
+                        -2.2410568
+                    ],
+                    [
+                        -12.940764,
+                        -0.8790998999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Western Wild - Outside the Garden",
+                "target": "The Garden",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -10.563588,
+                        -2.2410568
+                    ],
+                    [
+                        -8.211389,
+                        -1.5343604
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Western Wild - Outside the Garden",
+                "target": "The Western Wild - Flight to Narnia",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -12.940764,
+                        -0.8790998999999999
+                    ],
+                    [
+                        -10.563588,
+                        -2.2410568
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Garden",
+                "target": "The Western Wild - Outside the Garden",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8.211389,
+                        -1.5343604
+                    ],
+                    [
+                        -6.2478253,
+                        -0.8744392999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Western Wild - Flight to Narnia",
+                "target": "Narnia - Aslan and his Councillors",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.4046704,
+                        -2.1481651
+                    ],
+                    [
+                        -2.3498285,
+                        -1.3086886999999998
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - Uncle Andrew Caged",
+                "target": "Narnia - Coronation",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.3498285,
+                        -1.3086886999999998
+                    ],
+                    [
+                        -1.1241085,
+                        -0.40855114
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - Coronation",
+                "target": "Narnia - the Tree of Life",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -1.1241085,
+                        -0.40855114
+                    ],
+                    [
+                        -0.37738052000000005,
+                        0.5898184599999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Narnia - the Tree of Life",
+                "target": "The Wood Between the Worlds",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8065643,
+                        4.3034772
+                    ],
+                    [
+                        4.0811218,
+                        5.0341147
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Hallway",
+                "target": "Digory's Mother's Sickbed",
+                "weight": "1.0",
+                "2": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        3.8065643,
+                        4.3034772
+                    ],
+                    [
+                        2.8931905999999996,
+                        5.7943317
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' Hallway",
+                "target": "The Ketterleys' Back Garden",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.0811218,
+                        5.0341147
+                    ],
+                    [
+                        2.8931905999999996,
+                        5.7943317
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "Digory's Mother's Sickbed",
+                "target": "The Ketterleys' Back Garden",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.0796544,
+                        8.661271000000001
+                    ],
+                    [
+                        1.6840761,
+                        9.689345
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "The Ketterleys' House - Digory's Mother Recovers",
+                "target": "Postscript",
+                "weight": "1.0",
+                "2": "jump"
+            }
+        }
+    ]
+}

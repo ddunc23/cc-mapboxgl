@@ -1,0 +1,294 @@
+<html>
+	<head>
+		<script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+		<link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
+		<script src='https://unpkg.com/@turf/turf/turf.min.js'></script>
+
+		<style>
+			.curve_ctrl {
+				position: absolute;
+				top: 10px;
+				right: 10px;
+				z-index: 1;
+			}
+
+			.graph_ctrl {
+				position: absolute;
+				top: 10px;
+				left: 10px;
+				z-index: 1;
+			}
+		</style>
+	</head>
+	<body>
+
+		<div id='map' style='width: 100%; height: 100%;'></div>
+		<div class="curve_ctrl">
+			<form><input class="edges" checked="checked" name="edges" type="radio" value="straight" /> Straight <br /> <input class="edges" name="edges" type="radio" value="curved" /> Curved </form>
+		</div>
+		<div class="graph_ctrl">
+			<form>
+				<select class="graph_selector">
+					<option selected="selected" value="/504b_The Voyage of the Dawn Treader - C. S. Lewis-topoi-only.json">Dawn Treader</option>
+					<option value="/504a_The Magician's Nephew - C. S. Lewis-topoi-only.json">Magician's Nephew</option>
+				</select><br /> 
+			</form>
+		</div>
+		<script>
+
+		mapboxgl.accessToken = 'pk.eyJ1IjoiZGR1bmMyMyIsImEiOiJxQVhaaVhjIn0.T7vhn1bLeeQoHCsWZ_mp2g';
+		var map = new mapboxgl.Map({
+			container: 'map',
+			style: 'mapbox://styles/ddunc23/ckh1x5fqy0f2y19m6lbn32npk',	
+			center: [0, 0], // starting position [lng, lat]
+			zoom: 5 // starting zoom
+		});
+
+
+		let canvas = map.getCanvasContainer();
+
+		let node_index = 0;
+		let source_indices = [];
+		let target_indices = [];
+
+		let curved = false;
+
+		function onMove(e) {
+			let coords = e.lngLat;
+			// Set a UI indicator for dragging.
+			canvas.style.cursor = 'grabbing';
+
+			// Update the Point feature in `geojson` coordinates
+			// and call setData to the source layer `point` on it.
+			geojson.features[node_index].geometry.coordinates = [coords.lng, coords.lat];
+
+			for (let i=0; i < source_indices.length; i++) {
+				index = source_indices[i];
+				geojson.features[index].geometry.coordinates[0] = [coords.lng, coords.lat];
+			}
+
+			for (let i=0; i < target_indices.length; i++) {
+				index = target_indices[i];
+				geojson.features[index].geometry.coordinates[1] = [coords.lng, coords.lat];
+			}
+
+			map.getSource('graph').setData(geojson);
+		}
+
+		function onUp(e) {
+			canvas.style.cursor = '';
+			 
+			// Unbind mouse/touch events
+			map.off('mousemove', onMove);
+			map.off('touchmove', onMove);
+		}
+
+		function drawArc(coords) {
+			let line = turf.lineString(coords);
+			let offset = 150;
+			let offset_line = turf.lineOffset(line, offset);
+			let center = turf.midpoint(offset_line.geometry.coordinates[0], offset_line.geometry.coordinates[1]);
+			let radius_line = turf.lineString([center.geometry.coordinates, coords[0]]); 
+			let radius = turf.length(radius_line);
+			// let midpoint = turf.midpoint(coords[0], coords[1]);
+			
+			let bearing_1 = turf.bearing(center, coords[0]);
+			let bearing_2 = turf.bearing(center, coords[1]);
+			let arc = turf.lineArc(center, radius, bearing_1, bearing_2);
+			return arc;
+		}
+
+		function drawLine(coords) {
+			let line = turf.lineString([coords[0], coords[coords.length -1]]);
+			return line;
+		}
+
+		function addGeoJsonSource(data) {
+				geojson = data;
+
+				for (let i=0; i < geojson.features.length; i++) {
+					if (geojson.features[i].geometry.type == 'LineString') {
+						let coords = geojson.features[i].geometry.coordinates;
+						
+						if (curved == true) {
+							let arc = drawArc(coords);
+							geojson.features[i].geometry.coordinates = arc.geometry.coordinates;
+						}
+					}
+				}
+
+				map.addSource('graph', {
+					type: 'geojson',
+					data: geojson
+				});
+
+				map.addLayer({
+					'id': 'edges',
+					'type': 'line',
+					'source': 'graph',
+					'layout': {
+
+					},
+					'paint': {
+						'line-color': 
+							['case', 
+								['==', ['get', '2'], 'direct'], '#c686e9',
+								['==', ['get', '2'], 'indirect'], '#c686e9',
+								['==', ['get', '2'], 'jump'], '#ff7f33',
+								['==', ['get', '2'], 'projection'], '#ff7f33',
+							'#c1c1c1'
+							],
+						'line-width': 1.3,
+						'line-dasharray': [2, 4]
+						//'line-pattern': 'oneway-white-large'
+					}
+				});
+
+				map.addLayer({
+					'id': 'nodes',
+					'type': 'symbol',
+					'source': 'graph',
+					'layout': {
+						'icon-image': ['get', 'icon'],
+						// 'icon-size': ['/', ['get', 'size'], 80],
+						'icon-size': [
+			                'interpolate', ['linear'], ['zoom'],
+			                5, ['/', ['get', 'size'], 100],
+			                10, ['/', ['get', 'size'], 50]
+			            ],
+						'icon-allow-overlap': true,
+						'text-field': ['get', 'id'],
+						'text-font': ['Droid Serif Regular'],
+						'text-size': [
+			                'interpolate', ['linear'], ['zoom'],
+			                5, ['*', 0.3, ['get', 'size']],
+			                10, ['*', 0.8, ['get', 'size']]
+			            ],
+					},
+					'paint': {
+						'text-color': '#dbdbdb',
+						'text-halo-color': '#333333',
+						'text-halo-width': 1
+					}
+				});
+
+			}
+
+
+		let geojson = [];
+
+		let url = '/504b_The Voyage of the Dawn Treader - C. S. Lewis-topoi-only.json';
+
+		map.on('load', function () {
+
+			
+			
+			
+
+			$.ajax({
+				type: 'GET',
+				url: url,
+				dataType: 'json',
+				success: addGeoJsonSource,
+				async: false
+			});
+
+			
+
+			// Draggabble nodes
+
+			map.on('mousedown', 'nodes', function(e) {
+				e.preventDefault();
+				let node_id = e.features[0].properties.id;
+
+				if (node_id != undefined) {
+
+					node_index = 0;
+					source_indices = [];
+					target_indices = [];
+
+					let node_geojson = geojson.features.filter(function(feature, index) { 
+		                let feature_id = feature.properties.id; 
+		                if (feature_id == node_id) {
+		                	node_index = index;
+		                }
+		                return feature_id == node_id; 
+		            });
+
+					let source_geojson = geojson.features.filter(function(feature, index) {
+						let source = feature.properties.source;
+						
+						if (source == node_id) {
+		                	source_indices.push(index);
+		                }
+						return source == node_id;
+					});
+
+					let target_geojson = geojson.features.filter(function(feature, index) {
+						let target = feature.properties.target;
+
+						if (target == node_id) {
+							target_indices.push(index);
+						}
+						return target == node_id;
+					})
+
+
+		            canvas.style.cursor = 'grab';
+ 
+					map.on('mousemove', onMove);
+					map.once('mouseup', onUp);
+				}
+			});
+		});
+
+		$(".edges").click(function() {
+			let value = $("input[name='edges']:checked").val();
+			console.log(value);
+
+			if (value == 'curved') {
+				curved = true;
+			} else {
+				curved = false;
+			}
+
+			for (let i=0; i < geojson.features.length; i++) {
+				if (geojson.features[i].geometry.type == 'LineString') {
+					let coords = geojson.features[i].geometry.coordinates;
+					
+					if (curved == true) {
+						let arc = drawArc(coords);
+						geojson.features[i].geometry.coordinates = arc.geometry.coordinates;
+					} else if (curved == false) {
+						let line = drawLine(coords);
+						geojson.features[i].geometry.coordinates = line.geometry.coordinates;
+					}
+
+					map.getSource('graph').setData(geojson);
+				}
+			}
+		});
+
+		$('.graph_selector').click(function(e) {
+			let url = $(this).val();
+
+			map.removeLayer('nodes');
+			map.removeLayer('edges');
+			map.removeSource('graph');
+
+			$.ajax({
+				type: 'GET',
+				url: url,
+				dataType: 'json',
+				success: addGeoJsonSource,
+				async: false
+			});
+		})
+
+
+		</script>
+		
+
+	</body>
+</html>

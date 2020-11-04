@@ -1,0 +1,1132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.280718999999998,
+                    -20.856719
+                ]
+            },
+            "properties": {
+                "id": "Fagin's house",
+                "label": "Fagin's house",
+                "0": "topos",
+                "1": "31857",
+                "2": "parlour",
+                "3": "45,46,47,48,62,63,66",
+                "size": 16.485292,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2028.0719",
+                "y": "-2085.6719"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.596738000000002,
+                    27.549412000000004
+                ]
+            },
+            "properties": {
+                "id": "London",
+                "label": "London",
+                "0": "topos",
+                "1": "14964",
+                "2": "road",
+                "3": "44,58,121,156,197,199,211,213,216,218,220,223,226,227",
+                "size": 13.015365,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-1859.6738",
+                "y": "2754.9412"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42.34761,
+                    45.90298
+                ]
+            },
+            "properties": {
+                "id": "public-house",
+                "label": "public-house",
+                "0": "topos",
+                "1": "11327",
+                "2": "parlour",
+                "3": "43,190",
+                "size": 12.268302,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-4234.761",
+                "y": "4590.298"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.17167,
+                    -7.019529
+                ]
+            },
+            "properties": {
+                "id": "\"the street\"",
+                "label": "\"the street\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2217.167",
+                "y": "-701.9529"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -29.7625,
+                    34.454705
+                ]
+            },
+            "properties": {
+                "id": "\"London\"",
+                "label": "\"London\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2976.25",
+                "y": "3445.4705"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.516343000000003,
+                    -7.098103999999999
+                ]
+            },
+            "properties": {
+                "id": "\"public-houses\"",
+                "label": "\"public-houses\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2751.6343",
+                "y": "-709.8104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.932650000000002,
+                    22.691239999999997
+                ]
+            },
+            "properties": {
+                "id": "\"the turnpike at Islington\"",
+                "label": "\"the turnpike at Islington\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-1893.265",
+                "y": "2269.124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.606351,
+                    20.568179
+                ]
+            },
+            "properties": {
+                "id": "\"the Angel\"",
+                "label": "\"the Angel\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-1960.6351",
+                "y": "2056.8179"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.131194,
+                    18.106301000000002
+                ]
+            },
+            "properties": {
+                "id": "\"St. John's-road\"",
+                "label": "\"St. John's-road\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2213.1194",
+                "y": "1810.6301"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -29.270479,
+                    15.690660000000001
+                ]
+            },
+            "properties": {
+                "id": "\"Sadler's Wells Theatre\"",
+                "label": "\"Sadler's Wells Theatre\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2927.0479",
+                "y": "1569.066"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.821506,
+                    15.582869
+                ]
+            },
+            "properties": {
+                "id": "\"Exmouthstreet\"",
+                "label": "\"Exmouth Street\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2282.1506",
+                "y": "1558.2869"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.075412999999998,
+                    13.015236999999999
+                ]
+            },
+            "properties": {
+                "id": "\"Coppice-row\"",
+                "label": "\"Coppice-row\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2507.5413",
+                "y": "1301.5237"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.596533,
+                    10.573011
+                ]
+            },
+            "properties": {
+                "id": "\"the little court by the side of the workhouse\"",
+                "label": "\"the little court by the side of the workhouse\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2259.6533",
+                "y": "1057.3011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.408123,
+                    6.511521
+                ]
+            },
+            "properties": {
+                "id": "\"the classic ground which once bore the name of Hockley-in-the-Hole\"",
+                "label": "\"the classic ground which once bore the name of Hockley-in-the-Hole\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2240.8123",
+                "y": "651.1521"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.979133,
+                    1.7193298
+                ]
+            },
+            "properties": {
+                "id": "\"Little Saffron-hill\"",
+                "label": "\"Little Saffron-hill\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2297.9133",
+                "y": "171.93298"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.139695000000003,
+                    -0.8136545
+                ]
+            },
+            "properties": {
+                "id": "\"Saffron-hill the Great\"",
+                "label": "\"Saffron-hill the Great\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2313.9695",
+                "y": "-81.36545"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.501752,
+                    -0.23172913
+                ]
+            },
+            "properties": {
+                "id": "\"good many small shops\"",
+                "label": "\"good many small shops\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-1450.1752",
+                "y": "-23.172913"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.194564999999997,
+                    -9.554851
+                ]
+            },
+            "properties": {
+                "id": "\"the main street\"",
+                "label": "\"the main street\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2319.4565",
+                "y": "-955.4851"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.923424,
+                    -9.01238
+                ]
+            },
+            "properties": {
+                "id": "\"little knots of houses\"",
+                "label": "\"little knots of houses\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-1492.3424",
+                "y": "-901.238"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.202188,
+                    -16.076632
+                ]
+            },
+            "properties": {
+                "id": "\"the bottom of the hill\"",
+                "label": "\"the bottom of the hill\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2020.2188",
+                "y": "-1607.6632"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.129174,
+                    -19.335325
+                ]
+            },
+            "properties": {
+                "id": "\"Field-Lane\"",
+                "label": "\"Field Lane\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2012.9174",
+                "y": "-1933.5325"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26.857905000000002,
+                    -15.057739
+                ]
+            },
+            "properties": {
+                "id": "\"the passage\"",
+                "label": "\"the passage\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2685.7905",
+                "y": "-1505.7739"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.909658,
+                    -11.48907
+                ]
+            },
+            "properties": {
+                "id": "\"the main thoroughfare\"",
+                "label": "\"the main thoroughfare\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2190.9658",
+                "y": "-1148.907"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.142363,
+                    -2.4592815999999997
+                ]
+            },
+            "properties": {
+                "id": "\"the back lanes and avenues\"",
+                "label": "\"the back lanes and avenues\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-1114.2363",
+                "y": "-245.92816"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -29.465046,
+                    -9.2916516
+                ]
+            },
+            "properties": {
+                "id": "\"crowded streets\"",
+                "label": "\"crowded streets\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-2946.5046",
+                "y": "-929.16516"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.338668,
+                    -5.882073
+                ]
+            },
+            "properties": {
+                "id": "\"labyrinth of streets\"",
+                "label": "\"labyrinth of streets\"",
+                "0": "toporef",
+                "size": 9.941665,
+                "r": "0",
+                "g": "0",
+                "b": "0",
+                "x": "-1233.8668",
+                "y": "-588.2073"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -42.34761,
+                        45.90298
+                    ],
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "public-house",
+                "target": "London",
+                "weight": "1.0",
+                "4": "indirect"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -42.34761,
+                        45.90298
+                    ],
+                    [
+                        -29.7625,
+                        34.454705
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "public-house",
+                "target": "\"London\"",
+                "weight": "1.0",
+                "4": "projection"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -20.280718999999998,
+                        -20.856719
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "Fagin's house",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -18.932650000000002,
+                        22.691239999999997
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the turnpike at Islington\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -19.606351,
+                        20.568179
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the Angel\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -22.131194,
+                        18.106301000000002
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"St. John's-road\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -29.270479,
+                        15.690660000000001
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"Sadler's Wells Theatre\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -22.821506,
+                        15.582869
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"Exmouthstreet\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -25.075412999999998,
+                        13.015236999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"Coppice-row\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -22.596533,
+                        10.573011
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the little court by the side of the workhouse\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -22.408123,
+                        6.511521
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the classic ground which once bore the name of Hockley-in-the-Hole\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -22.979133,
+                        1.7193298
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"Little Saffron-hill\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -23.139695000000003,
+                        -0.8136545
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"Saffron-hill the Great\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -14.501752,
+                        -0.23172913
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"good many small shops\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -27.516343000000003,
+                        -7.098103999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"public-houses\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -23.194564999999997,
+                        -9.554851
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the main street\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -14.923424,
+                        -9.01238
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"little knots of houses\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -20.202188,
+                        -16.076632
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the bottom of the hill\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -20.129174,
+                        -19.335325
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"Field-Lane\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -21.909658,
+                        -11.48907
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the main thoroughfare\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -22.17167,
+                        -7.019529
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the street\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -11.142363,
+                        -2.4592815999999997
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the back lanes and avenues\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -29.465046,
+                        -9.2916516
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"crowded streets\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -26.857905000000002,
+                        -15.057739
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"the passage\"",
+                "weight": "1.0",
+                "4": "projection"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -12.338668,
+                        -5.882073
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"labyrinth of streets\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -18.596738000000002,
+                        27.549412000000004
+                    ],
+                    [
+                        -29.7625,
+                        34.454705
+                    ]
+                ]
+            },
+            "properties": {
+                "source": "London",
+                "target": "\"London\"",
+                "weight": "1.0",
+                "4": "direct"
+            }
+        }
+    ]
+}
