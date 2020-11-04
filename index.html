@@ -30,8 +30,8 @@
 		<div class="graph_ctrl">
 			<form>
 				<select class="graph_selector">
-					<option selected="selected" value="/504b_The Voyage of the Dawn Treader - C. S. Lewis-topoi-only.json">Dawn Treader</option>
-					<option value="/504a_The Magician's Nephew - C. S. Lewis-topoi-only.json">Magician's Nephew</option>
+					<option selected="selected" value="/dawn-treader-topoi.json">Dawn Treader</option>
+					<option value="/magicians-nephew-topoi.json">Magician's Nephew</option>
 				</select><br /> 
 			</form>
 		</div>
@@ -178,7 +178,7 @@
 
 		let geojson = [];
 
-		let url = '/504b_The Voyage of the Dawn Treader - C. S. Lewis-topoi-only.json';
+		let url = '/dawn-treader-topoi.json';
 
 		map.on('load', function () {
 
@@ -270,7 +270,7 @@
 			}
 		});
 
-		$('.graph_selector').click(function(e) {
+		$('.graph_selector').change(function(e) {
 			let url = $(this).val();
 
 			map.removeLayer('nodes');
