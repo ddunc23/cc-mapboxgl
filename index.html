@@ -4,6 +4,7 @@
 		<link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
 		<script src='https://unpkg.com/@turf/turf/turf.min.js'></script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
 		<style>
 			.curve_ctrl {
@@ -19,6 +20,14 @@
 				left: 10px;
 				z-index: 1;
 			}
+
+			.editing_ctrl {
+				position: absolute;
+				bottom: 10px;
+				right: 10px;
+				z-index: 1;
+			}
+
 		</style>
 	</head>
 	<body>
@@ -35,6 +44,10 @@
 				</select><br /> 
 			</form>
 		</div>
+		<div class="editing_ctrl">
+			<button type="button" id="editing" class="btn btn-primary">Allow Editing</button>
+		</div>
+
 		<script>
 
 		mapboxgl.accessToken = 'pk.eyJ1IjoiZGR1bmMyMyIsImEiOiJxQVhaaVhjIn0.T7vhn1bLeeQoHCsWZ_mp2g';
@@ -53,6 +66,8 @@
 		let target_indices = [];
 
 		let curved = false;
+		let editing = false;
+
 
 		function onMove(e) {
 			let coords = e.lngLat;
@@ -136,7 +151,7 @@
 								['==', ['get', '2'], 'direct'], '#c686e9',
 								['==', ['get', '2'], 'indirect'], '#c686e9',
 								['==', ['get', '2'], 'jump'], '#ff7f33',
-								['==', ['get', '2'], 'projection'], '#ff7f33',
+								['==', ['get', '2'], 'projection'], '#00caff',
 							'#c1c1c1'
 							],
 						'line-width': 1.3,
@@ -199,46 +214,48 @@
 			// Draggabble nodes
 
 			map.on('mousedown', 'nodes', function(e) {
-				e.preventDefault();
-				let node_id = e.features[0].properties.id;
+				if (editing == true) {
+					e.preventDefault();
+					let node_id = e.features[0].properties.id;
 
-				if (node_id != undefined) {
+					if (node_id != undefined) {
 
-					node_index = 0;
-					source_indices = [];
-					target_indices = [];
+						node_index = 0;
+						source_indices = [];
+						target_indices = [];
 
-					let node_geojson = geojson.features.filter(function(feature, index) { 
-		                let feature_id = feature.properties.id; 
-		                if (feature_id == node_id) {
-		                	node_index = index;
-		                }
-		                return feature_id == node_id; 
-		            });
+						let node_geojson = geojson.features.filter(function(feature, index) { 
+			                let feature_id = feature.properties.id; 
+			                if (feature_id == node_id) {
+			                	node_index = index;
+			                }
+			                return feature_id == node_id; 
+			            });
 
-					let source_geojson = geojson.features.filter(function(feature, index) {
-						let source = feature.properties.source;
-						
-						if (source == node_id) {
-		                	source_indices.push(index);
-		                }
-						return source == node_id;
-					});
+						let source_geojson = geojson.features.filter(function(feature, index) {
+							let source = feature.properties.source;
+							
+							if (source == node_id) {
+			                	source_indices.push(index);
+			                }
+							return source == node_id;
+						});
 
-					let target_geojson = geojson.features.filter(function(feature, index) {
-						let target = feature.properties.target;
+						let target_geojson = geojson.features.filter(function(feature, index) {
+							let target = feature.properties.target;
 
-						if (target == node_id) {
-							target_indices.push(index);
-						}
-						return target == node_id;
-					})
+							if (target == node_id) {
+								target_indices.push(index);
+							}
+							return target == node_id;
+						})
 
 
-		            canvas.style.cursor = 'grab';
- 
-					map.on('mousemove', onMove);
-					map.once('mouseup', onUp);
+			            canvas.style.cursor = 'grab';
+	 
+						map.on('mousemove', onMove);
+						map.once('mouseup', onUp);
+					}
 				}
 			});
 		});
@@ -284,7 +301,17 @@
 				success: addGeoJsonSource,
 				async: false
 			});
-		})
+		});
+
+		$('#editing').click(function(e) {
+			if (editing == true) {
+				editing = false;
+				$(this).html('Allow Editing');
+			} else if (editing == false) {
+				editing = true;
+				$(this).html('Disable Editing');
+			}
+		});
 
 
 		</script>
