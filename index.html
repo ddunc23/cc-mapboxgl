@@ -79,13 +79,26 @@
 			geojson.features[node_index].geometry.coordinates = [coords.lng, coords.lat];
 
 			for (let i=0; i < source_indices.length; i++) {
-				index = source_indices[i];
-				geojson.features[index].geometry.coordinates[0] = [coords.lng, coords.lat];
+				let index = source_indices[i];
+				
+				geojson.features[index].geometry.coordinates = [[coords.lng, coords.lat], geojson.features[index].geometry.coordinates[geojson.features[index].geometry.coordinates.length - 1]]
+				
+				if (curved == true) {
+					let arc = drawArc(geojson.features[index].geometry.coordinates);
+					geojson.features[index].geometry.coordinates = arc.geometry.coordinates;
+				}
 			}
 
 			for (let i=0; i < target_indices.length; i++) {
 				index = target_indices[i];
-				geojson.features[index].geometry.coordinates[1] = [coords.lng, coords.lat];
+
+				geojson.features[index].geometry.coordinates = [geojson.features[index].geometry.coordinates[0], [coords.lng, coords.lat]];
+
+				//geojson.features[index].geometry.coordinates = [[coords.lng, coords.lat]];
+				if (curved == true) {
+					arc = drawArc(geojson.features[index].geometry.coordinates);
+					geojson.features[index].geometry.coordinates = arc.geometry.coordinates;
+				}
 			}
 
 			map.getSource('graph').setData(geojson);
@@ -262,7 +275,6 @@
 
 		$(".edges").click(function() {
 			let value = $("input[name='edges']:checked").val();
-			console.log(value);
 
 			if (value == 'curved') {
 				curved = true;
